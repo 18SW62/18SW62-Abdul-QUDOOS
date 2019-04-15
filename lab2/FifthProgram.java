@@ -1,4 +1,4 @@
- class FifthProgram
+class FifthProgram
 {   
     public static void main(String args[])
     {        
